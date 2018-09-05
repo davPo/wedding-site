@@ -8,7 +8,7 @@ owner: David Torello
 first_published: 2018
 email: david.torello@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.davidandelise.com" # the base hostname & protocol for your site
+url: "http://davidandelise.com" # the base hostname & protocol for your site
 
 social:
   github: https://github.com/davidtorello/wedding-site
