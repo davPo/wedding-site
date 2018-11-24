@@ -43,14 +43,16 @@
   $blue: #6393b7;
   $blue2: #d4f0fc;
   $green: #68876f;
-  $grey: #777777;
+  $grey: #3D5678;
+
+  /// Note that I changed the last $grey entry in order to try and fix the color scheme.  I changed it to slate blue as a test.
 
 // Palette.
 	$palette: (
 		bg:					#2e3842,
 		fg:					#fff,
-		fg-bold:			#fff,
 		fg-light:			rgba(255,255,255,0.5),
+		fg-bold:			#fff,
 		border:				#fff,
 		border-bg:			rgba(144,144,144,0.25),
 		border2:			#fff,
