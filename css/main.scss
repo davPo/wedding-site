@@ -265,7 +265,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		@include breakpoint(medium) {
 			br {
-				display: none;
+				display: block;
 			}
 		}
 	}
@@ -1604,7 +1604,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 
 			br {
-				display: none;
+				display: block;
 			}
 
 			.more {
